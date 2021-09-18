@@ -4,7 +4,6 @@ var c=15;
 console.log("moi elhachemi");
 var c=155;
 console.log("moi elhachemi apres checkout");
-var c=15;
 console.log("moi elhachemi");
-var c=1555;
+var c=155;
 console.log("moi elhachemi apres checkout en double");
