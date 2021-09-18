@@ -7,3 +7,4 @@ console.log("moi elhachemi apres checkout");
 console.log("moi elhachemi");
 var c=155;
 console.log("moi elhachemi apres checkout en double");
+var cc=587;
